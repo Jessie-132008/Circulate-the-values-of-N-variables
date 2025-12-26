@@ -33,17 +33,10 @@ arr[n - 1] = first
 print("After circulation:")
 for x in arr:
     print(x, end=" ")
+ Developed by: JESSIE.J
+RegisterNumber: 25017372
 ```
 ## Output:
-```
-Enter number of values: 5
-Enter value 1: 2
-Enter value 2: 4
-Enter value 3: 6
-Enter value 4: 8
-Enter value 5: 10
-After circulation:
-4 6 8 10 2
-```
+  <img width="1920" height="1080" alt="Screenshot 2025-12-26 092909" src="https://github.com/user-attachments/assets/09169e28-35cc-4ba9-83a4-7b3252267fe6" />
 ## Result:
  Thus,the output for circulate the values N variables is executed and achieved.
