@@ -38,5 +38,7 @@ RegisterNumber: 25017372
 ```
 ## Output:
   <img width="1920" height="1080" alt="Screenshot 2025-12-26 092909" src="https://github.com/user-attachments/assets/09169e28-35cc-4ba9-83a4-7b3252267fe6" />
+
 ## Result:
- Thus,the output for circulate the values N variables is executed and achieved.
+  
+  Thus,the output for circulate the values N variables is executed and achieved.
